@@ -1,2 +1,0 @@
-RAG stands for Retrieval Augmented Generation.
-It improves LLM accuracy by retrieving relevant documents.
