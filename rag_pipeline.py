@@ -10,7 +10,7 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 # Step 1: Load Document
-loader = PyPDFLoader("Hang.pdf")
+loader = PyPDFLoader("sample_resume.pdf")
 documents = loader.load()
 
 # Step 2: Chunk
